@@ -1,0 +1,32 @@
+﻿{
+    "id":  "c430bef2-8840-43a5-8f09-532967c6d095",
+    "name":  "Electronic Invoicing",
+    "publisher":  "Agic Technology",
+    "version":  "1.0.0.0",
+    "brief":  "",
+    "description":  "",
+    "privacyStatement":  "",
+    "EULA":  "",
+    "help":  "",
+    "url":  "",
+    "logo":  "",
+    "dependencies":  [
+
+                     ],
+    "screenshots":  [
+
+                    ],
+    "platform":  "1.0.0.0",
+    "application":  "19.0.0.0",
+    "idRanges":  [
+                     {
+                         "from":  50000,
+                         "to":  51000
+                     }
+                 ],
+    "resourceExposurePolicy":  {
+                                   "allowDebugging":  true,
+                                   "allowDownloadingSource":  false,
+                                   "includeSourceInSymbolFile":  false
+                               }
+}
